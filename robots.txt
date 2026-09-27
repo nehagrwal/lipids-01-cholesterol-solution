@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/lipids-01-cholesterol-solution/sitemap.xml
+Sitemap: https://lipids-01-cholesterol-solution.vercel.app/sitemap-vercel.xml
+Sitemap: https://lipids-01-cholesterol-solution.pages.dev/sitemap-cloudflare.xml
